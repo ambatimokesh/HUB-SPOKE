@@ -1,4 +1,7 @@
-# Azure Hub-Spoke Network Architecture with Security, Grafana Monitoring & Smart Alerts 🚀
+<img width="1536" height="1024" alt="HUBSPOKE" src="https://github.com/user-attachments/assets/3f2605dc-d9fa-4aec-9088-13a761afa41a" /># Azure Hub-Spoke Network Architecture with Security, Grafana Monitoring & Smart Alerts 🚀
+
+## Architecture Diagram
+![Uploading HUBSPOKE.png…]()
 
 ## Project Overview
 
@@ -51,9 +54,8 @@ It simulates an enterprise-grade cloud environment focused on **network segmenta
 
 ---
 
-## Architecture Diagram
 
-Add your architecture image inside the `images` folder and update the file name below.
+
 
 ```markdown
 ![Architecture Diagram](images/architecture.png)
